@@ -39,7 +39,7 @@
   padding: 10px 30px;
 }
 .elements-menu > li > a.active {
-  background: #C8A165 none repeat scroll 0 0;
+  background: #0D0D0D none repeat scroll 0 0;
   color: #fff;
 }
 .elements-section-title h2 {
@@ -102,11 +102,11 @@ hr.tall {
 }
 /* accordion-3 */
 .accordion-3 .accordion-title a {
-  background: #C8A165 none repeat scroll 0 0;
+  background: #0D0D0D none repeat scroll 0 0;
   color: #fff;
 }
 .accordion-3 .accordion-title a.collapsed {
-  background: #C8A165 none repeat scroll 0 0;
+  background: #0D0D0D none repeat scroll 0 0;
   color: #fff;
 }
 /* accordion-4 */
@@ -174,7 +174,7 @@ hr.tall {
   margin-right: 1px;
 }
 .elements-tab .nav-tabs li.active a {
-  color: #C8A165;
+  color: #0D0D0D;
 }
 
 /* elements-tab-3 */
@@ -193,7 +193,7 @@ hr.tall {
   padding: 10px 20px;
 }
 .elements-tab-menu li.active a {
-  background: #C8A165 none repeat scroll 0 0;
+  background: #0D0D0D none repeat scroll 0 0;
   color: #fff;
 }
 /*elements-tab-7*/
@@ -205,7 +205,7 @@ hr.tall {
   padding: 5px 0px;
 }
 .elements-tab-7 .elements-tab-menu li.active a {
-  color: #C8A165;
+  color: #0D0D0D;
 }
 
 .element-line-btm li.active {
@@ -233,7 +233,7 @@ hr.tall {
   padding: 5px 0px;
 }
 .elements-tab-8 .elements-tab-menu li.active a {
-  color: #C8A165;
+  color: #0D0D0D;
 }
 .elements-tab-8 .element-line-btm li.active::before {
   right: 0;

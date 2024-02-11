@@ -403,7 +403,7 @@
   width: 30px;
 }
 .header-search-mobile ul > li > a:hover {
-  color: #C8A165;
+  color: #0D0D0D;
 }
 .sidebar-search input {
   margin-top: 100px;
@@ -422,7 +422,7 @@
   padding: 25px 0;
 }
 .mobile-menu-area {
-  background: #c8a165 none repeat scroll 0 0;
+  background: #0D0D0D none repeat scroll 0 0;
 }
 .mean-container .mean-nav ul li.mean-last {
   margin-bottom: 20px;
